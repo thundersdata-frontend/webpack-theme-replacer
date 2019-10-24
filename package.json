@@ -1,0 +1,30 @@
+{
+  "name": "@td-design/webpack-theme-replacer",
+  "version": "1.0.0",
+  "description": "webpack css 主题替换",
+  "license": "MIT",
+  "author": "廖军 <liaojun@thundersdata.com>",
+  "homepage": "https://github.com/thundersdata-frontend/webpack-theme-replacer#readme",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thundersdata-frontend/webpack-theme-replacer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thundersdata-frontend/webpack-theme-replacer/issues"
+  },
+  "keywords": [
+    "webpack",
+    "css",
+    "replace",
+    "主题",
+    "替换"
+  ],
+  "dependencies": {
+    "color": "^3.1.2",
+    "cssom": "^0.4.1"
+  }
+}
